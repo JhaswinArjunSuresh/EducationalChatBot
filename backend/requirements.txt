@@ -1,0 +1,9 @@
+Flask
+PyMuPDF
+faiss-cpu
+pymupdf
+langchain
+langchain-ollama
+numpy
+flask
+flask-cors
